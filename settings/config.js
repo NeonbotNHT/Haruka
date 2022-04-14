@@ -8,7 +8,7 @@ global.anti_delete = true
 
 // setting
 global.ownername ="Zeey"
-global.ownernumber = "62895395165760"
+global.ownernumber = "56954940311" , "56977774748"
 global.botname = "Neonbot"
 global.thumbnail = fs.readFileSync("./settings/Neonbot.jpeg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
